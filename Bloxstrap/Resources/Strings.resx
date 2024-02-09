@@ -39,7 +39,8 @@
     The mimetype is used for serialized objects, and tells the 
     ResXResourceReader how to depersist the object. This is currently not 
     extensible. For a given mimetype the value must be set accordingly:
-    
+
+
     Note - application/x-microsoft.net.object.binary.base64 is the format 
     that the ResXResourceWriter will generate, however the reader can 
     read any of the formats listed below.
@@ -542,20 +543,11 @@ Would you like to upgrade your currently installed version?</value>
   <data name="Menu.About.BuildTimestamp" xml:space="preserve">
     <value>Timestamp</value>
   </data>
-  <data name="Menu.About.Contributors" xml:space="preserve">
-    <value>Contributors</value>
-  </data>
   <data name="Menu.About.Contributors.Code" xml:space="preserve">
-    <value>Code</value>
+    <value>Cleaned by std-fs because i think it was messy hehe</value>
   </data>
   <data name="Menu.About.Contributors.Description" xml:space="preserve">
-    <value>These people are the ones who contributed to the original bloxstrap, why would i remove them?</value>
-  </data>
-  <data name="Menu.About.Contributors.FeatureIdeas" xml:space="preserve">
-    <value>Feature Ideas</value>
-  </data>
-  <data name="Menu.About.Contributors.Translations" xml:space="preserve">
-    <value>Translations</value>
+    <value>i had nothing to do with my life, i was bored and i felt that bloxstrap had alot of messy things so i cleaned them - std-fs</value>
   </data>
   <data name="Menu.About.Description.1" xml:space="preserve">
     <value>Just a regular fork i guess</value>
