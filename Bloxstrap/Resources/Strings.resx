@@ -531,7 +531,7 @@ Would you like to upgrade your currently installed version?</value>
     <value>Commit Hash</value>
   </data>
   <data name="Menu.About.BuildInformation" xml:space="preserve">
-    <value>Build Information</value>
+    <value>Fork(B) infromation</value>
   </data>
   <data name="Menu.About.BuildMachine" xml:space="preserve">
     <value>Machine</value>
@@ -549,7 +549,7 @@ Would you like to upgrade your currently installed version?</value>
     <value>Code</value>
   </data>
   <data name="Menu.About.Contributors.Description" xml:space="preserve">
-    <value>These are the people who have made notable contributions to Bloxstrap, helping make it what it is.</value>
+    <value>These people are the ones who contributed to the original bloxstrap, why would i remove them?</value>
   </data>
   <data name="Menu.About.Contributors.FeatureIdeas" xml:space="preserve">
     <value>Feature Ideas</value>
@@ -558,16 +558,16 @@ Would you like to upgrade your currently installed version?</value>
     <value>Translations</value>
   </data>
   <data name="Menu.About.Description.1" xml:space="preserve">
-    <value>An open-source, feature-packed alternative bootstrapper for Roblox</value>
+    <value>Just a regular fork i guess</value>
   </data>
   <data name="Menu.About.Description.2" xml:space="preserve">
-    <value>Developed by pizzaboxer - if you like this, please consider leaving a star on GitHub!</value>
+    <value>Developed by pizzaboxer, forked by std-fs :)! </value>
   </data>
   <data name="Menu.About.DiscordServer" xml:space="preserve">
     <value>Discord server</value>
   </data>
   <data name="Menu.About.GithubRepository" xml:space="preserve">
-    <value>GitHub repository</value>
+    <value>std-fs github</value>
   </data>
   <data name="Menu.About.HelpInformation" xml:space="preserve">
     <value>Help and Information</value>
@@ -582,7 +582,7 @@ Would you like to upgrade your currently installed version?</value>
     <value>About</value>
   </data>
   <data name="Menu.About.UnreleasedVersion" xml:space="preserve">
-    <value>Using an unreleased version, I see?</value>
+    <value>Why are you using std-fs fork?</value>
   </data>
   <data name="Menu.About.Version" xml:space="preserve">
     <value>Version {0}</value>
@@ -693,7 +693,7 @@ Would you like to upgrade your currently installed version?</value>
     <value>Configure what Bloxstrap should do when launching.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Description" xml:space="preserve">
-    <value>Roblox will be installed fresh on next launch.</value>
+    <value>Roblox will be freshly installed on the next launch.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Title" xml:space="preserve">
     <value>Force Roblox reinstallation</value>
@@ -711,7 +711,7 @@ Would you like to upgrade your currently installed version?</value>
     <value>Delete selected</value>
   </data>
   <data name="Menu.FastFlagEditor.Description" xml:space="preserve">
-    <value>Manage your own FastFlags. Double click a column to edit.</value>
+    <value>Manage your FFlags</value>
   </data>
   <data name="Menu.FastFlagEditor.Search" xml:space="preserve">
     <value>Search</value>
@@ -1019,7 +1019,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>After installation has finished, the Bloxstrap Menu will be registered as an application in the Start menu. If you ever need to access it again to re-adjust your settings, or access resources such as FastFlag management, you can find it there.</value>
   </data>
   <data name="Menu.PreInstall.Info.2" xml:space="preserve">
-    <value>If you ever need help or guidance with anything, be sure to check the [Wiki]({0}). If you still need something, open an [issue]({1}) on GitHub, or join our [Discord server]({2}).</value>
+    <value>If you ever need help or guidance with anything, be sure to check the [Wiki]({0}). If you still need something, open an [issue]({1}) on GitHub.</value>
   </data>
   <data name="Menu.PreInstall.Title" xml:space="preserve">
     <value>Before you install...</value>
@@ -1028,7 +1028,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Save</value>
   </data>
   <data name="Menu.Title" xml:space="preserve">
-    <value>Bloxstrap Menu</value>
+    <value>std-fs fork</value>
   </data>
   <data name="ProtocolHandler.RobloxSwitchedChannel" xml:space="preserve">
     <value>Roblox is attempting to set your channel to {0}, however your current preferred channel is {1}.
