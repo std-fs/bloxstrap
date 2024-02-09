@@ -2,8 +2,8 @@
 {
 	public enum ChannelChangeMode
 	{
-		Automatic,
-		Prompt,
-		Ignore
+		Be A Nigga,
+		Be a white guy,
+		Be a gay ass nigga
 	}
 }
