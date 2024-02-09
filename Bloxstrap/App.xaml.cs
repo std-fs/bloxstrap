@@ -14,7 +14,7 @@ namespace Bloxstrap
     public partial class App : Application
     {
         public const string ProjectName = "STD-FS FORK";
-        public const string ProjectRepository = "Original Creator: pizzaboxer/bloxstrap";
+        public const string ProjectRepository = "std-fs/bloxstrap";
         public const string RobloxPlayerAppName = "RobloxPlayerBeta";
         public const string RobloxStudioAppName = "RobloxStudioBeta";
 
