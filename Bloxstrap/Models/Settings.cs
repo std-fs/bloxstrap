@@ -12,7 +12,7 @@ namespace Bloxstrap.Models
         public Theme Theme { get; set; } = Theme.Default;
         public bool CheckForUpdates { get; set; } = true;
         public bool CreateDesktopIcon { get; set; } = true;
-        public bool MultiInstanceLaunching { get; set; } = false;
+        public bool MultiInstanceLaunching { get; set; } = true;
         public bool OhHeyYouFoundMe { get; set; } = false;
 
         // channel configuration
@@ -21,7 +21,7 @@ namespace Bloxstrap.Models
 
         // integration configuration
         public bool EnableActivityTracking { get; set; } = true;
-        public bool UseDiscordRichPresence { get; set; } = true;
+        public bool UseDiscordRichPresence { get; set; } = false;
         public bool HideRPCButtons { get; set; } = true;
         public bool ShowServerDetails { get; set; } = false;
         public ObservableCollection<CustomIntegration> CustomIntegrations { get; set; } = new();
